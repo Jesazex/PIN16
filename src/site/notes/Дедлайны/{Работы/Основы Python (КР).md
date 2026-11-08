@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/dedlajny/raboty/osnovy-python-kr/","dg-note-properties":{}}
+---
+
+## На 5 Ноября
+- [ ] [КР №1](https://new.contest.yandex.ru/contests/69444)
